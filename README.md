@@ -4,6 +4,7 @@ Script for automated nmap scan
 
 To install scannero:
 
+nmap 
 python3
 pip3 install python-nmap
 
