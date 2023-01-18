@@ -2,13 +2,17 @@
 Script for automated nmap scan
 
 
-To install scannero:
+To run scannero, you need:
 
-nmap 
-python3
+apt install nmap 
+
+apt install python3
+
 pip3 install python-nmap
 
-git clone 
+Download:
+
+git clone
 
 To run:
 
