@@ -1,3 +1,6 @@
+!!!!!Don't use not ready!!!!!
+
+
 # scannero
 Script for automated nmap scan
 
